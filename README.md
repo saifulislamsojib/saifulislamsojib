@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saifulislamsojib
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming, data structures and algorithms
-- 💞️ I’m looking to collaborate on programming
+- 💞️ I’m looking to collaborate on programming community
 - 📫 How to reach me --- [Facebook](https://www.facebook.com/saifulsojib.bd)
 
 <!---
