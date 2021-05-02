@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning programming, data structures and algorithms
 - 💞️ I’m looking to collaborate on programming community
 - 📫 How to reach me --- [Facebook](https://www.facebook.com/saifulsojib.bd)
+- [Facebook](https://www.facebook.com/saifulsojib.bd)
 
 <!---
 saifulislamsojib/saifulislamsojib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
