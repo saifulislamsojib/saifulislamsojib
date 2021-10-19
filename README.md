@@ -1,5 +1,5 @@
-- ### 👋 Hi, I’m Saiful Islam Sojib
-- ### 👀 I’m interested in programming
+- ### 👋 Hi, I’m Saiful Islam Sojib.
+- ### 👀 I’m looking to collaborate on open source projects.
 
 ## :mailbox: Reach me out
 
