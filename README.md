@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @saifulislamsojib
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming, data structures and algorithms
-- 💞️ I’m looking to collaborate on programming community
-- 📫 How to reach me --- [LinkedIn](https://www.linkedin.com/in/saiful-sojib/),  [Facebook](https://www.facebook.com/saifulsojib.bd)
+- ### 👋 Hi, I’m Saiful Islam Sojib
+- ### 👀 I’m interested in programming
 
 ## :mailbox: Reach me out
 
@@ -13,9 +10,9 @@
 
 ## :eyes: Current overview
 
-- ### 🌱 I’m currently learning Back-end Development. 
-- ### 👯 I’m looking to collaborate on open source projects. 
-- ### 🤔 I’m looking for help with fixing my coding addiction. 
+- ### 🌱 I’m currently learning Back-end Development.
+- ### 🤔 I’m looking for help with fixing my coding addiction.
+- ### 💞️ I’m looking to collaborate on open source projects.
 - ### ⚡ Fun fact: I love to make complex origami and I can speak 5 languages.
 
 ## :computer: Technologies that I know
