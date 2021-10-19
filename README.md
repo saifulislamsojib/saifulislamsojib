@@ -33,6 +33,13 @@
 - [10 JavaScript Interview Questions That Every Developer Should Know.](https://saifulislam-sojib56.medium.com/10-javascript-interview-questions-that-every-developer-should-know-3e27c5f03e58)
 <!-- BLOG-POST-LIST:END -->
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
+
 <!---
 saifulislamsojib/saifulislamsojib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
