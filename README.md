@@ -13,7 +13,7 @@
 - ### 🌱 I’m currently learning Back-end Development.
 - ### 🤔 I’m looking for help with fixing my coding addiction.
 - ### 💞️ I’m looking to collaborate on open source projects.
-- ### ⚡ Fun fact: I love to make complex origami and I can speak 5 languages.
+- ### ⚡ Fun fact: I like listening to music and singing.
 
 ## :computer: Technologies that I know
 <br>
