@@ -23,6 +23,13 @@
  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" height="25"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
 </p><br/>
 
+## :Most Used Languages
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislamsojib&theme=blue-green" />
+</p>
+
 ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [10 JavaScript Concepts That Every Developer Should Know.](https://medium.com/geekculture/10-javascript-concepts-that-every-developer-should-know-702330e662e2)
@@ -35,6 +42,13 @@
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislamsojib&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
+</p>
+
+## :GitHub Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=saifulislamsojib&theme=blue-green" />
 </p>
 
 <!---
