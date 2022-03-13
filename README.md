@@ -26,9 +26,9 @@
 ## :Most Used Languages
 
 <br />
-<p align="center">
+
   [![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislamsojib&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislamsojib&theme=blue-green)
-</p>
+
 
 ## :book: My recent blog posts
 <!-- BLOG-POST-LIST:START -->
