@@ -27,7 +27,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislamsojib&theme=blue-green" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislamsojib&theme=blue-green" />
 </p>
 
 ## :book: My recent blog posts
